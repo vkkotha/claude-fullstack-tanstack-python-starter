@@ -57,7 +57,7 @@ async function main() {
   console.log('\n🚀 Project Setup\n');
 
   // Get project name
-  const currentName = 'claude-tanstack-python-starter';
+  const currentName = 'claude-fullstack-tanstack-python-starter';
   const folderName = process.cwd().split('/').pop();
   const suggestedName = folderName !== currentName ? folderName : 'my-project';
 

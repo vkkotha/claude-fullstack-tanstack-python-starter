@@ -11,14 +11,14 @@ Click **"Use this template"** button on GitHub, then clone your new repository.
 ### Option 2: Clone Directly
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/claude-tanstack-python-starter.git my-project
+git clone https://github.com/vkkotha/claude-fullstack-tanstack-python-starter.git my-project
 cd my-project
 ```
 
 ### Option 3: degit (No Git History)
 
 ```bash
-npx degit YOUR_USERNAME/claude-tanstack-python-starter my-project
+npx degit vkkotha/claude-fullstack-tanstack-python-starter my-project
 cd my-project
 ```
 
